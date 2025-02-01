@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decompose</string>
+    <string name="home">Главная</string>
+    <string name="news">Новости</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+</resources>

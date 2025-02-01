@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Decompose" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="29">false</item>
+    </style>
+
+    <style name="Theme.Decompose.Launcher" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.Decompose</item>
+    </style>
+
+</resources>
